@@ -8,7 +8,7 @@ A: 为什么又不能呢？
 
 # Tools    
 
-Goodbye LaTeX. We already have some simple solutions.
+Goodbye LaTeX. We already have much simpler solutions.
 
 + `WordTex` https://www.andrew.cmu.edu/user/twildenh/wordtex/ 
 
